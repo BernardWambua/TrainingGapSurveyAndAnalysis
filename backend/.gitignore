@@ -1,2 +1,6 @@
+backend/.env
+backend/app/__pycache__/
 backend/app/migrations/
+backend/app/tests.py
 backend/backend/__pycache__/
+backend/env/
